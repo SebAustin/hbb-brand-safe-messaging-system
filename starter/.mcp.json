@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mock-ad-platform": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "exercises/closed-loop-mcp/server.js"
+      ],
+      "env": {}
+    }
+  }
+}

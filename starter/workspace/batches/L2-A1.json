@@ -1,0 +1,42 @@
+[
+  {
+    "id": "N01",
+    "headline": "Your Cash Flow, 90 Days Out",
+    "description": "The Momentum Intelligence Dashboard forecasts 90 days from your real transaction data.",
+    "feature": "90-day cash flow forecast",
+    "source": "Brand Bible §6",
+    "voice_pillar": "Forward motion",
+    "angle_tag": "ai-cashflow",
+    "status": "draft"
+  },
+  {
+    "id": "N02",
+    "headline": "Cash Flow, Not Guesswork",
+    "description": "Intelligence Dashboard: 90-day forecast, tax reserve calculator, anomaly alerts.",
+    "feature": "Intelligence Dashboard (forecast, tax reserve calculator, anomaly alerts)",
+    "source": "Brand Bible §6",
+    "voice_pillar": "Straight talk",
+    "angle_tag": "ai-cashflow",
+    "status": "draft"
+  },
+  {
+    "id": "N03",
+    "headline": "Atlanta Decides Your Loan",
+    "description": "Underwritten in Atlanta. Loan decisions made locally — no out-of-state underwriting.",
+    "feature": "Loan decisions made locally",
+    "source": "Brand Bible §5, §7",
+    "voice_pillar": "Earned confidence",
+    "angle_tag": "local",
+    "status": "draft"
+  },
+  {
+    "id": "N04",
+    "headline": "Nine Metro Atlanta Locations",
+    "description": "Plus two in Savannah. Locally owned and operated since 1999. Member FDIC.",
+    "feature": "Local ownership / Atlanta and Savannah locations",
+    "source": "Brand Bible §7",
+    "voice_pillar": "Straight talk",
+    "angle_tag": "local",
+    "status": "draft"
+  }
+]

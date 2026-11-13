@@ -1,3 +1,424 @@
 {
-  "variants": []
+  "variants": [
+    {
+      "variant_id": "v_8209ef94",
+      "headline": "Starter Is $0 a Month",
+      "description": "Momentum Starter, built in Atlanta for owners who count every dollar. Member FDIC.",
+      "angle_tags": [
+        "fee-simplicity"
+      ],
+      "status": "paused",
+      "launched_at": "2026-11-13T03:20:20.653Z",
+      "pulls": 3,
+      "performance": {
+        "impressions": 1759,
+        "clicks": 51,
+        "conversions": 2,
+        "spend": 126.64,
+        "ctr": 0.029,
+        "cpa": 63.32
+      },
+      "_truth": {
+        "ctr": 0.0231,
+        "conv": 0.052500000000000005,
+        "cpc": 2.483153870177471
+      },
+      "events": [
+        {
+          "type": "launched",
+          "at": "2026-11-13T03:20:20.654Z"
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:26.775Z",
+          "pull_number": 1
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:30.003Z",
+          "pull_number": 2
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:33.464Z",
+          "pull_number": 3
+        },
+        {
+          "type": "paused",
+          "at": "2026-11-13T03:25:52.333Z",
+          "reason": "L2 rule: CTR 2.90% below L1 median 2.98%, bottom third of approved set; worst CPA $63.32"
+        }
+      ]
+    },
+    {
+      "variant_id": "v_083b77c3",
+      "headline": "See 90 Days of Cash Ahead",
+      "description": "A 90-day forecast built from your real transactions, not guesses. Plan your next move.",
+      "angle_tags": [
+        "ai-cashflow"
+      ],
+      "status": "active",
+      "launched_at": "2026-11-13T03:20:21.597Z",
+      "pulls": 6,
+      "performance": {
+        "impressions": 3598,
+        "clicks": 134,
+        "conversions": 11,
+        "spend": 344.67,
+        "ctr": 0.0372,
+        "cpa": 31.33
+      },
+      "_truth": {
+        "ctr": 0.0341,
+        "conv": 0.07750000000000001,
+        "cpc": 2.5721008168725477
+      },
+      "events": [
+        {
+          "type": "launched",
+          "at": "2026-11-13T03:20:21.597Z"
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:27.154Z",
+          "pull_number": 1
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:30.468Z",
+          "pull_number": 2
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:33.915Z",
+          "pull_number": 3
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:02.617Z",
+          "pull_number": 4
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:05.777Z",
+          "pull_number": 5
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:10.120Z",
+          "pull_number": 6
+        }
+      ]
+    },
+    {
+      "variant_id": "v_42a2429c",
+      "headline": "A Named Advisor. No Bots.",
+      "description": "Your advisor is Atlanta-based and has a name. Phone, video, or in-branch. No bots.",
+      "angle_tags": [
+        "human-support"
+      ],
+      "status": "active",
+      "launched_at": "2026-11-13T03:20:22.594Z",
+      "pulls": 6,
+      "performance": {
+        "impressions": 3665,
+        "clicks": 115,
+        "conversions": 7,
+        "spend": 283.53,
+        "ctr": 0.0314,
+        "cpa": 40.5
+      },
+      "_truth": {
+        "ctr": 0.0297,
+        "conv": 0.0675,
+        "cpc": 2.4653401502353995
+      },
+      "events": [
+        {
+          "type": "launched",
+          "at": "2026-11-13T03:20:22.594Z"
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:27.571Z",
+          "pull_number": 1
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:30.863Z",
+          "pull_number": 2
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:34.385Z",
+          "pull_number": 3
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:03.088Z",
+          "pull_number": 4
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:06.465Z",
+          "pull_number": 5
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:10.816Z",
+          "pull_number": 6
+        }
+      ]
+    },
+    {
+      "variant_id": "v_5227c092",
+      "headline": "Locally Owned Since 1999",
+      "description": "Nine metro Atlanta locations plus two in Savannah. Now with cash flow tools built in.",
+      "angle_tags": [
+        "local"
+      ],
+      "status": "active",
+      "launched_at": "2026-11-13T03:20:23.543Z",
+      "pulls": 6,
+      "performance": {
+        "impressions": 3215,
+        "clicks": 108,
+        "conversions": 9,
+        "spend": 248.43,
+        "ctr": 0.0336,
+        "cpa": 27.6
+      },
+      "_truth": {
+        "ctr": 0.0352,
+        "conv": 0.08000000000000002,
+        "cpc": 2.300329908783338
+      },
+      "events": [
+        {
+          "type": "launched",
+          "at": "2026-11-13T03:20:23.543Z"
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:28.092Z",
+          "pull_number": 1
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:31.264Z",
+          "pull_number": 2
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:34.798Z",
+          "pull_number": 3
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:02.851Z",
+          "pull_number": 4
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:06.229Z",
+          "pull_number": 5
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:10.521Z",
+          "pull_number": 6
+        }
+      ]
+    },
+    {
+      "variant_id": "v_f19e5b2b",
+      "headline": "Free ACH and Incoming Wires",
+      "description": "Momentum checking: unlimited fee-free transactions. Plain pricing. Member FDIC.",
+      "angle_tags": [
+        "fee-simplicity"
+      ],
+      "status": "paused",
+      "launched_at": "2026-11-13T03:20:24.545Z",
+      "pulls": 3,
+      "performance": {
+        "impressions": 2103,
+        "clicks": 49,
+        "conversions": 3,
+        "spend": 106.18,
+        "ctr": 0.0233,
+        "cpa": 35.39
+      },
+      "_truth": {
+        "ctr": 0.0231,
+        "conv": 0.052500000000000005,
+        "cpc": 2.1670011709561807
+      },
+      "events": [
+        {
+          "type": "launched",
+          "at": "2026-11-13T03:20:24.545Z"
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:28.414Z",
+          "pull_number": 1
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:31.749Z",
+          "pull_number": 2
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:35.169Z",
+          "pull_number": 3
+        },
+        {
+          "type": "paused",
+          "at": "2026-11-13T03:25:53.147Z",
+          "reason": "L2 rule: CTR 2.33%, lowest of approved set, bottom third"
+        }
+      ]
+    },
+    {
+      "variant_id": "v_10898493",
+      "headline": "No Monthly Fee",
+      "description": "Business checking with no monthly fee. That's the whole pitch. Member FDIC.",
+      "angle_tags": [
+        "generic-fee"
+      ],
+      "status": "paused",
+      "launched_at": "2026-11-13T03:20:25.294Z",
+      "pulls": 3,
+      "performance": {
+        "impressions": 1820,
+        "clicks": 31,
+        "conversions": 0,
+        "spend": 87.34,
+        "ctr": 0.017,
+        "cpa": null
+      },
+      "_truth": {
+        "ctr": 0.0165,
+        "conv": 0.037500000000000006,
+        "cpc": 2.8172309656613335
+      },
+      "events": [
+        {
+          "type": "launched",
+          "at": "2026-11-13T03:20:25.294Z"
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:28.664Z",
+          "pull_number": 1
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:31.947Z",
+          "pull_number": 2
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:20:35.413Z",
+          "pull_number": 3
+        },
+        {
+          "type": "paused",
+          "at": "2026-11-13T03:25:53.884Z",
+          "reason": "Audit-dropped angle, launched only as rejected-angle test; CTR 1.70%, 0 conversions — test complete"
+        }
+      ]
+    },
+    {
+      "variant_id": "v_74a96bc8",
+      "headline": "Your Cash Flow, 90 Days Out",
+      "description": "The Momentum Intelligence Dashboard forecasts 90 days from your real transaction data.",
+      "angle_tags": [
+        "ai-cashflow"
+      ],
+      "status": "active",
+      "launched_at": "2026-11-13T03:25:58.911Z",
+      "pulls": 3,
+      "performance": {
+        "impressions": 1573,
+        "clicks": 52,
+        "conversions": 4,
+        "spend": 147.19,
+        "ctr": 0.0331,
+        "cpa": 36.8
+      },
+      "_truth": {
+        "ctr": 0.0341,
+        "conv": 0.07750000000000001,
+        "cpc": 2.830575714310731
+      },
+      "events": [
+        {
+          "type": "launched",
+          "at": "2026-11-13T03:25:58.911Z"
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:01.525Z",
+          "pull_number": 1
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:04.928Z",
+          "pull_number": 2
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:09.282Z",
+          "pull_number": 3
+        }
+      ]
+    },
+    {
+      "variant_id": "v_a6d69010",
+      "headline": "Cash Flow, Not Guesswork",
+      "description": "Intelligence Dashboard: 90-day forecast, tax reserve calculator, anomaly alerts.",
+      "angle_tags": [
+        "ai-cashflow"
+      ],
+      "status": "active",
+      "launched_at": "2026-11-13T03:25:59.646Z",
+      "pulls": 3,
+      "performance": {
+        "impressions": 1260,
+        "clicks": 47,
+        "conversions": 4,
+        "spend": 109.37,
+        "ctr": 0.0373,
+        "cpa": 27.34
+      },
+      "_truth": {
+        "ctr": 0.0341,
+        "conv": 0.07750000000000001,
+        "cpc": 2.3268877524007325
+      },
+      "events": [
+        {
+          "type": "launched",
+          "at": "2026-11-13T03:25:59.646Z"
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:02.041Z",
+          "pull_number": 1
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:05.374Z",
+          "pull_number": 2
+        },
+        {
+          "type": "performance_pull",
+          "at": "2026-11-13T03:26:09.722Z",
+          "pull_number": 3
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,27 @@
+{
+  "round": "A2",
+  "source": "workspace/batches/A2.json",
+  "results": [
+    {
+      "id": "M04",
+      "headline_chars": 27,
+      "description_chars": 82,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "M09",
+      "headline_chars": 14,
+      "description_chars": 75,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "M10",
+      "headline_chars": 28,
+      "description_chars": 78,
+      "pass": true,
+      "failures": []
+    }
+  ]
+}

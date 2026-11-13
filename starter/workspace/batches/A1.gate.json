@@ -1,0 +1,76 @@
+{
+  "round": "A1",
+  "source": "workspace/batches/A1.json",
+  "results": [
+    {
+      "id": "M01",
+      "headline_chars": 21,
+      "description_chars": 82,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "M02",
+      "headline_chars": 25,
+      "description_chars": 86,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "M03",
+      "headline_chars": 25,
+      "description_chars": 82,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "M04",
+      "headline_chars": 26,
+      "description_chars": 82,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "M05",
+      "headline_chars": 24,
+      "description_chars": 85,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "M06",
+      "headline_chars": 24,
+      "description_chars": 78,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "M07",
+      "headline_chars": 22,
+      "description_chars": 85,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "M08",
+      "headline_chars": 27,
+      "description_chars": 79,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "M09",
+      "headline_chars": 14,
+      "description_chars": 79,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "M10",
+      "headline_chars": 27,
+      "description_chars": 85,
+      "pass": true,
+      "failures": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "round": "L2-A1",
+  "source": "workspace/batches/L2-A1.json",
+  "results": [
+    {
+      "id": "N01",
+      "headline_chars": 27,
+      "description_chars": 86,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "N02",
+      "headline_chars": 24,
+      "description_chars": 80,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "N03",
+      "headline_chars": 25,
+      "description_chars": 84,
+      "pass": true,
+      "failures": []
+    },
+    {
+      "id": "N04",
+      "headline_chars": 28,
+      "description_chars": 73,
+      "pass": true,
+      "failures": []
+    }
+  ]
+}

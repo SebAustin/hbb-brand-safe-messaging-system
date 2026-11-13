@@ -1,0 +1,13 @@
+{
+  "round": "L2-A2",
+  "source": "workspace/batches/L2-A2.json",
+  "results": [
+    {
+      "id": "N03",
+      "headline_chars": 26,
+      "description_chars": 59,
+      "pass": true,
+      "failures": []
+    }
+  ]
+}

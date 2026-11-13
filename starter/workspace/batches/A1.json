@@ -1,0 +1,102 @@
+[
+  {
+    "id": "M01",
+    "headline": "Starter Is $0 a Month",
+    "description": "Momentum Starter, built in Atlanta for owners who count every dollar. Member FDIC.",
+    "feature": "$0/mo Starter tier",
+    "source": "Brand Bible §6, §7",
+    "voice_pillar": "Earned confidence",
+    "angle_tag": "fee-simplicity",
+    "status": "draft"
+  },
+  {
+    "id": "M02",
+    "headline": "See 90 Days of Cash Ahead",
+    "description": "A 90-day forecast built from your real transactions, not guesses. Plan your next move.",
+    "feature": "90-day cash flow forecast",
+    "source": "Brand Bible §6",
+    "voice_pillar": "Forward motion",
+    "angle_tag": "ai-cashflow",
+    "status": "draft"
+  },
+  {
+    "id": "M03",
+    "headline": "A Named Advisor. No Bots.",
+    "description": "Your advisor is Atlanta-based and has a name. Phone, video, or in-branch. No bots.",
+    "feature": "Named Atlanta-based advisor",
+    "source": "Brand Bible §6, §7",
+    "voice_pillar": "Warmth without softness",
+    "angle_tag": "human-support",
+    "status": "draft"
+  },
+  {
+    "id": "M04",
+    "headline": "Loan Calls Made in Atlanta",
+    "description": "Loan decisions made locally — no out-of-state underwriting. Let's talk next steps.",
+    "feature": "Loan decisions made locally",
+    "source": "Brand Bible §7",
+    "voice_pillar": "Earned confidence",
+    "angle_tag": "local",
+    "status": "draft"
+  },
+  {
+    "id": "M05",
+    "headline": "Locally Owned Since 1999",
+    "description": "Nine metro Atlanta locations plus two in Savannah. Now with cash flow tools built in.",
+    "feature": "Locally owned since 1999",
+    "source": "Brand Bible §7, §6",
+    "voice_pillar": "Earned confidence",
+    "angle_tag": "local",
+    "status": "draft"
+  },
+  {
+    "id": "M06",
+    "headline": "Anomaly Alerts, Built In",
+    "description": "Anomaly alerts flag unusual activity. A tax reserve calculator helps you plan.",
+    "feature": "Anomaly alerts / tax reserve calculator",
+    "source": "Brand Bible §6",
+    "voice_pillar": "Straight talk",
+    "angle_tag": "ai-cashflow",
+    "status": "draft"
+  },
+  {
+    "id": "M07",
+    "headline": "Connects to Your Tools",
+    "description": "QuickBooks, Xero, Shopify, Square, Stripe, Gusto, ADP, HubSpot. Via Momentum Connect.",
+    "feature": "Momentum Connect integrations",
+    "source": "Brand Bible §6",
+    "voice_pillar": "Forward motion",
+    "angle_tag": "ai-cashflow",
+    "status": "draft"
+  },
+  {
+    "id": "M08",
+    "headline": "Free ACH and Incoming Wires",
+    "description": "Momentum checking: unlimited fee-free transactions. Plain pricing. Member FDIC.",
+    "feature": "Free ACH + incoming wires / unlimited fee-free transactions",
+    "source": "Brand Bible §6",
+    "voice_pillar": "Straight talk",
+    "angle_tag": "fee-simplicity",
+    "status": "draft"
+  },
+  {
+    "id": "M09",
+    "headline": "No Monthly Fee",
+    "description": "Business checking with no monthly fee. Keep more of what you earn. Member FDIC.",
+    "feature": "No monthly fee (generic)",
+    "source": "Brand Bible §6, §7",
+    "voice_pillar": "Straight talk",
+    "angle_tag": "generic-fee",
+    "status": "draft"
+  },
+  {
+    "id": "M10",
+    "headline": "Plan Payroll With Real Data",
+    "description": "Pull Gusto, ADP, or QuickBooks payroll into your 90-day forecast. Know what's coming.",
+    "feature": "Payroll scheduling integration with forecast",
+    "source": "Brand Bible §6",
+    "voice_pillar": "Forward motion",
+    "angle_tag": "ai-cashflow",
+    "status": "draft"
+  }
+]
